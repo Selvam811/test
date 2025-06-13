@@ -13,6 +13,14 @@
       {
         "appID": "GE8BT8LF5K.com.selvam03.AssociateDomainTest",
         "paths": [ "/wallet/*", "/pay", "/checkout" ]
+      },
+      {
+        "appID": "9H774PQ99T.com.selvam03.AssociateDomainTest",
+        "paths": [ "/wallet/*", "/pay", "/checkout" ]
+      },
+      {
+        "appID": "UMLM8RAZRF.com.selvam03.AssociateDomainTest",
+        "paths": [ "/wallet/*", "/pay", "/checkout" ]
       }
     ]
   }
