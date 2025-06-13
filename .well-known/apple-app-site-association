@@ -1,18 +1,10 @@
 {
   "applinks": {
     "apps": [],
-    "details": [
-      {
-        "appID": "GE8BT8LF5K.in.juspay.BoilerPlateSwift",
-        "paths": [ "/wallet/*", "/pay", "/checkout" ]
-      },
+    "details": [ 
       {
         "appID": "GE8BT8LF5K.in.juspay.DevToolsEnterprise",
         "paths": [ "/hyperfps/*", "/pay", "/checkout" ]
-      },
-      {
-        "appID": "GE8BT8LF5K.com.selvam03.AssociateDomainTest",
-        "paths": [ "/wallet/*", "/pay", "/checkout" ]
       }
     ]
   }
