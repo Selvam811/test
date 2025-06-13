@@ -9,6 +9,10 @@
       {
         "appID": "GE8BT8LF5K.in.juspay.DevToolsEnterprise",
         "paths": [ "/wallet/*", "/pay", "/checkout" ]
+      },
+      {
+        "appID": "GE8BT8LF5K.com.selvam03.AssociateDomainTest",
+        "paths": [ "/wallet/*", "/pay", "/checkout" ]
       }
     ]
   }
