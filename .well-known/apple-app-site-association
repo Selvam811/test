@@ -8,7 +8,7 @@
       },
       {
         "appID": "GE8BT8LF5K.in.juspay.DevToolsEnterprise",
-        "paths": [ "/hyperfps/*", "/pay", "/checkout" ]
+        "paths": [ "/hyperfps*", "/pay", "/checkout" ]
       },
       {
         "appID": "GE8BT8LF5K.com.selvam03.AssociateDomainTest",
