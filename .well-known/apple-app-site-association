@@ -4,7 +4,7 @@
     "details": [ 
       {
         "appID": "GE8BT8LF5K.in.juspay.DevToolsEnterprise",
-        "paths": [ "/hyperfps/*" ]
+        "paths": [ "/hyperfps/*","/wallet/*" ]
       }
     ]
   }
