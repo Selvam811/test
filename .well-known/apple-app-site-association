@@ -11,6 +11,10 @@
         "paths": [ "/hyperfps/*","/hyperwechat/*", "/wallet/*", "/pay", "/checkout" ]
       },
       {
+        "appID": "GE8BT8LF5K.in.juspay.HSBCDemo",
+        "paths": [ "/hyperfps/*","/hyperwechat/*", "/wallet/*", "/pay", "/checkout" ]
+      },
+      {
         "appID": "in.juspay.juspay-sdk-integration-swift-demo2",
         "paths": [ "/hyperfps/*","/hyperwechat/*", "/wallet/*", "/pay", "/checkout" ]
       },
